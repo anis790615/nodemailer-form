@@ -1,0 +1,16 @@
+{
+  "name": "form-nodemailer-app",
+  "version": "1.0.0",
+  "description": "\"A contact form uses nodemailer module\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anis Alkomem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemailer": "^6.4.8"
+  }
+}
